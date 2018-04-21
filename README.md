@@ -43,5 +43,6 @@ STUDENT MANAGEMENT:
       32. View check-in result
       33. View his/her scores of a course
       34. View schedules
-   *Node : there are some bugs when you run this program because this is the beta  :)*
+
+*Node : there are some bugs when you run this program because this is the beta  :)*
  
