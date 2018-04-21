@@ -4,14 +4,12 @@ Project given by HCMUS
 STUDENT MANAGEMENT:
   1. Account&Password in file .txt
   2. Once you want to work with any file you should import it first from file source
-  3. Here are what this program can do:
-    • All roles:
+  3. These are what this program can do:
       1. Login
       2. Show menu
       3. View info
       4. Change password
       5. Logout/Exit
-• Academic staff:
       6. Import students of a class from a csv file
       7. Add a new student to a class
       8. Edit an existing student
@@ -34,15 +32,13 @@ STUDENT MANAGEMENT:
       25. Export attendance list to a csv file
       26. Search and view scoreboard of a course
       27. Export a scoreboard to a csv file
-• Lecturer:
       28. Import scoreboard of a course (midterm, final, lab, bonus)
       29. Edit grade of a student
       30. View a scoreboard
-• Student:
       31. Check-in.
       32. View check-in result
       33. View his/her scores of a course
       34. View schedules
 
-*Node : there are some bugs when you run this program because this is the beta  :)*
- 
+
+*Note : there are some bugs when you run this program because this is the beta  :)*
